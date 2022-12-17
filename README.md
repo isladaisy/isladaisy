@@ -1,5 +1,6 @@
 ### Hi there 👋 <br /> <br />
 ##### welcome to my world!
+  
   ---
 
 <!--
@@ -28,17 +29,20 @@ Techs I've used at least once <br /> <br />
   
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isladaisy&theme=vue&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isladaisy&langs_count=5&layout=compact)](https://github.com/isladaisy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isladaisy&langs_count=5&layout=compact)](https://github.com/isladaisy/github-readme-stats)
 
+   <br /> 
+  
   ---
 
 
   <p align="center"><br />
-  🌺 <strong>Today</stong> 🌺
-  <br />
+  🌺 <strong>Me Today</stong> 🌺
+  <br /> <br />
   
-<div align="center">    
-    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisladaisy&count_bg=%23D184FF&title_bg=%23C2C1C1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<div align="center">  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isladaisy&theme=dracula&show_icons=true) <br /> <br />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisladaisy&count_bg=%23FA788F&title_bg=%23AEADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <br />
   <div align="center">
